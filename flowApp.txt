@@ -1,0 +1,6 @@
+Dalam pembuatan aplikasi terdapat beberapa tahapan
+1. Membuat prototype aplikasi yang ingin dibuat
+2. Membuat model yg digunakan untuk representasi data yang dibuat dari representasi tabel di DB 
+3. Membuat bussines logic atau fitur2 dalam aplikasi
+4. Membuat View atau tampilan yang terdapat di dalam aplikasi kita
+5. Membuat test untuk setiap bussines logic secara automatis
